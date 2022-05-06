@@ -1,0 +1,381 @@
+Sample	Tax	Profile	Group
+Y9	g__Parabacteroides	0.0116865869854	Y
+Y8	g__Parabacteroides	0.00725984949093	Y
+Y1	g__Parabacteroides	0.00690571049137	Y
+Y3	g__Parabacteroides	0.00956175298805	Y
+Y2	g__Parabacteroides	0.0157591854803	Y
+Y5	g__Parabacteroides	0.0125719344843	Y
+Y4	g__Parabacteroides	0.00796812749004	Y
+Y7	g__Parabacteroides	0.0158477202302	Y
+Y6	g__Parabacteroides	0.00354138999557	Y
+O16	g__Parabacteroides	0.154581673307	O
+O15	g__Parabacteroides	0.0839309428951	O
+O14	g__Parabacteroides	0.129791943338	O
+O13	g__Parabacteroides	0.148118636565	O
+O12	g__Parabacteroides	0.113767153608	O
+O11	g__Parabacteroides	0.205135015494	O
+O10	g__Parabacteroides	0.170606463037	O
+O9	g__Parabacteroides	0.255422753431	O
+O8	g__Parabacteroides	0.1602478973	O
+O7	g__Parabacteroides	0.137317397078	O
+O6	g__Parabacteroides	0.184683488269	O
+Y9	g__Lactobacillus	0.0361221779548	Y
+Y8	g__Lactobacillus	0.0135458167331	Y
+Y1	g__Lactobacillus	0.0195661797255	Y
+Y3	g__Lactobacillus	0.0534749889332	Y
+Y2	g__Lactobacillus	0.0574590526782	Y
+Y5	g__Lactobacillus	0.0239043824701	Y
+Y4	g__Lactobacillus	0.0520584329349	Y
+Y7	g__Lactobacillus	0.0138114209827	Y
+Y6	g__Lactobacillus	0.0558654271802	Y
+O16	g__Lactobacillus	0.100132802125	O
+O15	g__Lactobacillus	0.0851704293935	O
+O14	g__Lactobacillus	0.0142540947322	O
+O13	g__Lactobacillus	0.163877822045	O
+O12	g__Lactobacillus	0.113944223108	O
+O11	g__Lactobacillus	0.0760513501549	O
+O10	g__Lactobacillus	0.149003984064	O
+O9	g__Lactobacillus	0.1602478973	O
+O8	g__Lactobacillus	0.0539176626826	O
+O7	g__Lactobacillus	0.0720672864099	O
+O6	g__Lactobacillus	0.0781761841523	O
+Y9	g__Bacteroides	0.09597166888	Y
+Y8	g__Bacteroides	0.0617087206729	Y
+Y1	g__Bacteroides	0.0744577246569	Y
+Y3	g__Bacteroides	0.102788844622	Y
+Y2	g__Bacteroides	0.144842850819	Y
+Y5	g__Bacteroides	0.104559539619	Y
+Y4	g__Bacteroides	0.084019477645	Y
+Y7	g__Bacteroides	0.0710048694112	Y
+Y6	g__Bacteroides	0.0203629924745	Y
+O16	g__Bacteroides	0.000442673749447	O
+O15	g__Bacteroides	0.0664895971669	O
+O14	g__Bacteroides	0.169189907039	O
+O13	g__Bacteroides	8.85347498893e-05	O
+O12	g__Bacteroides	0.000265604249668	O
+O11	g__Bacteroides	0.0	O
+O10	g__Bacteroides	8.85347498893e-05	O
+O9	g__Bacteroides	0.000177069499779	O
+O8	g__Bacteroides	0.000177069499779	O
+O7	g__Bacteroides	0.000265604249668	O
+O6	g__Bacteroides	0.000177069499779	O
+Y9	g__Alistipes	0.00256750774679	Y
+Y8	g__Alistipes	0.0024789729969	Y
+Y1	g__Alistipes	0.137671536078	Y
+Y3	g__Alistipes	0.127401505091	Y
+Y2	g__Alistipes	0.0766710934042	Y
+Y5	g__Alistipes	0.128995130589	Y
+Y4	g__Alistipes	0.0913678618858	Y
+Y7	g__Alistipes	0.00424966799469	Y
+Y6	g__Alistipes	0.00123948649845	Y
+O16	g__Alistipes	0.000442673749447	O
+O15	g__Alistipes	0.00699424524126	O
+O14	g__Alistipes	0.00398406374502	O
+O13	g__Alistipes	0.0	O
+O12	g__Alistipes	8.85347498893e-05	O
+O11	g__Alistipes	0.0	O
+O10	g__Alistipes	0.000177069499779	O
+O9	g__Alistipes	8.85347498893e-05	O
+O8	g__Alistipes	0.0	O
+O7	g__Alistipes	0.0	O
+O6	g__Alistipes	0.000177069499779	O
+Y9	g__Anaeroplasma	0.0	Y
+Y8	g__Anaeroplasma	0.0	Y
+Y1	g__Anaeroplasma	0.0	Y
+Y3	g__Anaeroplasma	0.0	Y
+Y2	g__Anaeroplasma	0.0	Y
+Y5	g__Anaeroplasma	0.0	Y
+Y4	g__Anaeroplasma	0.0	Y
+Y7	g__Anaeroplasma	0.0	Y
+Y6	g__Anaeroplasma	8.85347498893e-05	Y
+O16	g__Anaeroplasma	0.0594953519256	O
+O15	g__Anaeroplasma	0.0292164674635	O
+O14	g__Anaeroplasma	0.0178840194776	O
+O13	g__Anaeroplasma	0.0515272244356	O
+O12	g__Anaeroplasma	0.0846392208942	O
+O11	g__Anaeroplasma	0.0386896857016	O
+O10	g__Anaeroplasma	0.0387782204515	O
+O9	g__Anaeroplasma	0.0355909694555	O
+O8	g__Anaeroplasma	0.10376272687	O
+O7	g__Anaeroplasma	0.0670208056662	O
+O6	g__Anaeroplasma	0.0566622399292	O
+Y9	g__Mucispirillum	0.0347941567065	Y
+Y8	g__Mucispirillum	0.100398406375	Y
+Y1	g__Mucispirillum	0.0586985391766	Y
+Y3	g__Mucispirillum	0.0049579459938	Y
+Y2	g__Mucispirillum	0.00203629924745	Y
+Y5	g__Mucispirillum	0.0439132359451	Y
+Y4	g__Mucispirillum	0.0426737494467	Y
+Y7	g__Mucispirillum	0.0597609561753	Y
+Y6	g__Mucispirillum	0.0358565737052	Y
+O16	g__Mucispirillum	0.00265604249668	O
+O15	g__Mucispirillum	0.01602478973	O
+O14	g__Mucispirillum	0.00424966799469	O
+O13	g__Mucispirillum	0.00637450199203	O
+O12	g__Mucispirillum	0.0134572819832	O
+O11	g__Mucispirillum	0.00177069499779	O
+O10	g__Mucispirillum	0.00345285524568	O
+O9	g__Mucispirillum	0.000442673749447	O
+O8	g__Mucispirillum	0.0016821602479	O
+O7	g__Mucispirillum	0.00717131474104	O
+O6	g__Mucispirillum	0.0049579459938	O
+Y9	g__Barnesiella	0.0	Y
+Y8	g__Barnesiella	8.85347498893e-05	Y
+Y1	g__Barnesiella	0.0507304116866	Y
+Y3	g__Barnesiella	0.0750774679062	Y
+Y2	g__Barnesiella	0.0674634794157	Y
+Y5	g__Barnesiella	0.0541832669323	Y
+Y4	g__Barnesiella	0.056839309429	Y
+Y7	g__Barnesiella	0.0	Y
+Y6	g__Barnesiella	0.0	Y
+O16	g__Barnesiella	0.0	O
+O15	g__Barnesiella	0.0	O
+O14	g__Barnesiella	0.0	O
+O13	g__Barnesiella	0.0	O
+O12	g__Barnesiella	8.85347498893e-05	O
+O11	g__Barnesiella	0.0	O
+O10	g__Barnesiella	0.000177069499779	O
+O9	g__Barnesiella	8.85347498893e-05	O
+O8	g__Barnesiella	0.0	O
+O7	g__Barnesiella	0.0	O
+O6	g__Barnesiella	0.0	O
+Y9	g__Roseburia	0.00283311199646	Y
+Y8	g__Roseburia	0.0228419654714	Y
+Y1	g__Roseburia	0.00672864099159	Y
+Y3	g__Roseburia	0.000265604249668	Y
+Y2	g__Roseburia	0.000619743249225	Y
+Y5	g__Roseburia	0.00566622399292	Y
+Y4	g__Roseburia	0.00593182824259	Y
+Y7	g__Roseburia	0.000708277999115	Y
+Y6	g__Roseburia	0.0	Y
+O16	g__Roseburia	0.0182381584772	O
+O15	g__Roseburia	0.0202744577247	O
+O14	g__Roseburia	0.0154935812306	O
+O13	g__Roseburia	0.0346170872067	O
+O12	g__Roseburia	0.0091190792386	O
+O11	g__Roseburia	0.0169101372289	O
+O10	g__Roseburia	0.0227534307216	O
+O9	g__Roseburia	0.0193891102258	O
+O8	g__Roseburia	0.00566622399292	O
+O7	g__Roseburia	0.0251438689686	O
+O6	g__Roseburia	0.02399291722	O
+Y9	g__Anaerotruncus	0.00690571049137	Y
+Y8	g__Anaerotruncus	0.00761398849048	Y
+Y1	g__Anaerotruncus	0.00398406374502	Y
+Y3	g__Anaerotruncus	0.00115095174856	Y
+Y2	g__Anaerotruncus	0.00115095174856	Y
+Y5	g__Anaerotruncus	0.00212483399734	Y
+Y4	g__Anaerotruncus	0.00221336874723	Y
+Y7	g__Anaerotruncus	0.00752545374059	Y
+Y6	g__Anaerotruncus	0.00796812749004	Y
+O16	g__Anaerotruncus	0.00451527224436	O
+O15	g__Anaerotruncus	0.0132802124834	O
+O14	g__Anaerotruncus	0.0146082337317	O
+O13	g__Anaerotruncus	0.0110668437362	O
+O12	g__Anaerotruncus	0.0114209827357	O
+O11	g__Anaerotruncus	0.00504648074369	O
+O10	g__Anaerotruncus	0.00460380699425	O
+O9	g__Anaerotruncus	0.00389552899513	O
+O8	g__Anaerotruncus	0.00956175298805	O
+O7	g__Anaerotruncus	0.0105356352368	O
+O6	g__Anaerotruncus	0.00734838424081	O
+Y9	g__Saccharibacteria_genera_incertae_sedis	0.0	Y
+Y8	g__Saccharibacteria_genera_incertae_sedis	0.0	Y
+Y1	g__Saccharibacteria_genera_incertae_sedis	0.0118636564852	Y
+Y3	g__Saccharibacteria_genera_incertae_sedis	0.00672864099159	Y
+Y2	g__Saccharibacteria_genera_incertae_sedis	0.0101814962373	Y
+Y5	g__Saccharibacteria_genera_incertae_sedis	0.0121292607348	Y
+Y4	g__Saccharibacteria_genera_incertae_sedis	0.0154935812306	Y
+Y7	g__Saccharibacteria_genera_incertae_sedis	0.0	Y
+Y6	g__Saccharibacteria_genera_incertae_sedis	8.85347498893e-05	Y
+O16	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O15	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O14	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O13	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O12	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O11	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O10	g__Saccharibacteria_genera_incertae_sedis	8.85347498893e-05	O
+O9	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O8	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O7	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+O6	g__Saccharibacteria_genera_incertae_sedis	0.0	O
+Y9	g__Peptococcus	0.00283311199646	Y
+Y8	g__Peptococcus	0.00141655599823	Y
+Y1	g__Peptococcus	0.00345285524568	Y
+Y3	g__Peptococcus	0.0118636564852	Y
+Y2	g__Peptococcus	0.00903054448871	Y
+Y5	g__Peptococcus	0.00779105799026	Y
+Y4	g__Peptococcus	0.00796812749004	Y
+Y7	g__Peptococcus	0.00362992474546	Y
+Y6	g__Peptococcus	0.00106241699867	Y
+O16	g__Peptococcus	0.0	O
+O15	g__Peptococcus	0.00380699424524	O
+O14	g__Peptococcus	0.00362992474546	O
+O13	g__Peptococcus	0.0	O
+O12	g__Peptococcus	0.0	O
+O11	g__Peptococcus	0.0	O
+O10	g__Peptococcus	0.0	O
+O9	g__Peptococcus	0.0	O
+O8	g__Peptococcus	0.0	O
+O7	g__Peptococcus	0.0	O
+O6	g__Peptococcus	0.0	O
+Y9	g__Clostridium sensu stricto	0.0	Y
+Y8	g__Clostridium sensu stricto	0.0	Y
+Y1	g__Clostridium sensu stricto	0.0	Y
+Y3	g__Clostridium sensu stricto	0.000177069499779	Y
+Y2	g__Clostridium sensu stricto	0.0	Y
+Y5	g__Clostridium sensu stricto	0.0	Y
+Y4	g__Clostridium sensu stricto	0.0	Y
+Y7	g__Clostridium sensu stricto	0.0	Y
+Y6	g__Clostridium sensu stricto	0.0	Y
+O16	g__Clostridium sensu stricto	0.0091190792386	O
+O15	g__Clostridium sensu stricto	0.00185922974768	O
+O14	g__Clostridium sensu stricto	0.00185922974768	O
+O13	g__Clostridium sensu stricto	0.0016821602479	O
+O12	g__Clostridium sensu stricto	0.00540061974325	O
+O11	g__Clostridium sensu stricto	0.0016821602479	O
+O10	g__Clostridium sensu stricto	0.00318725099602	O
+O9	g__Clostridium sensu stricto	0.0041611332448	O
+O8	g__Clostridium sensu stricto	0.000885347498893	O
+O7	g__Clostridium sensu stricto	0.00628596724214	O
+O6	g__Clostridium sensu stricto	0.000265604249668	O
+Y9	g__Enterorhabdus	0.0	Y
+Y8	g__Enterorhabdus	0.0	Y
+Y1	g__Enterorhabdus	0.00442673749447	Y
+Y3	g__Enterorhabdus	0.0113324479858	Y
+Y2	g__Enterorhabdus	0.00336432049579	Y
+Y5	g__Enterorhabdus	0.00221336874723	Y
+Y4	g__Enterorhabdus	0.00362992474546	Y
+Y7	g__Enterorhabdus	0.0	Y
+Y6	g__Enterorhabdus	0.0	Y
+O16	g__Enterorhabdus	0.0	O
+O15	g__Enterorhabdus	0.0	O
+O14	g__Enterorhabdus	0.000885347498893	O
+O13	g__Enterorhabdus	0.0	O
+O12	g__Enterorhabdus	0.0	O
+O11	g__Enterorhabdus	0.0	O
+O10	g__Enterorhabdus	0.0	O
+O9	g__Enterorhabdus	0.0	O
+O8	g__Enterorhabdus	0.0	O
+O7	g__Enterorhabdus	0.0	O
+O6	g__Enterorhabdus	0.0	O
+Y9	g__Ruminococcus	0.000442673749447	Y
+Y8	g__Ruminococcus	0.000619743249225	Y
+Y1	g__Ruminococcus	0.00177069499779	Y
+Y3	g__Ruminococcus	0.00380699424524	Y
+Y2	g__Ruminococcus	0.00132802124834	Y
+Y5	g__Ruminococcus	0.000973882248783	Y
+Y4	g__Ruminococcus	0.000265604249668	Y
+Y7	g__Ruminococcus	0.00221336874723	Y
+Y6	g__Ruminococcus	0.000177069499779	Y
+O16	g__Ruminococcus	0.0	O
+O15	g__Ruminococcus	0.00185922974768	O
+O14	g__Ruminococcus	0.00965028773794	O
+O13	g__Ruminococcus	8.85347498893e-05	O
+O12	g__Ruminococcus	0.0	O
+O11	g__Ruminococcus	0.000177069499779	O
+O10	g__Ruminococcus	8.85347498893e-05	O
+O9	g__Ruminococcus	0.0	O
+O8	g__Ruminococcus	0.0	O
+O7	g__Ruminococcus	0.0	O
+O6	g__Ruminococcus	0.0	O
+Y9	g__Clostridium IV	0.000708277999115	Y
+Y8	g__Clostridium IV	0.000177069499779	Y
+Y1	g__Clostridium IV	0.00132802124834	Y
+Y3	g__Clostridium IV	0.000708277999115	Y
+Y2	g__Clostridium IV	0.000973882248783	Y
+Y5	g__Clostridium IV	0.00115095174856	Y
+Y4	g__Clostridium IV	0.00115095174856	Y
+Y7	g__Clostridium IV	0.000177069499779	Y
+Y6	g__Clostridium IV	0.000885347498893	Y
+O16	g__Clostridium IV	0.000177069499779	O
+O15	g__Clostridium IV	0.000885347498893	O
+O14	g__Clostridium IV	0.000177069499779	O
+O13	g__Clostridium IV	0.0	O
+O12	g__Clostridium IV	0.000265604249668	O
+O11	g__Clostridium IV	0.000265604249668	O
+O10	g__Clostridium IV	0.000973882248783	O
+O9	g__Clostridium IV	0.000177069499779	O
+O8	g__Clostridium IV	0.000265604249668	O
+O7	g__Clostridium IV	8.85347498893e-05	O
+O6	g__Clostridium IV	0.000354138999557	O
+Y9	g__Intestinimonas	0.000177069499779	Y
+Y8	g__Intestinimonas	0.000531208499336	Y
+Y1	g__Intestinimonas	0.00194776449757	Y
+Y3	g__Intestinimonas	0.000796812749004	Y
+Y2	g__Intestinimonas	0.00354138999557	Y
+Y5	g__Intestinimonas	0.000973882248783	Y
+Y4	g__Intestinimonas	0.000619743249225	Y
+Y7	g__Intestinimonas	0.000442673749447	Y
+Y6	g__Intestinimonas	0.000531208499336	Y
+O16	g__Intestinimonas	8.85347498893e-05	O
+O15	g__Intestinimonas	0.0	O
+O14	g__Intestinimonas	0.000796812749004	O
+O13	g__Intestinimonas	0.0	O
+O12	g__Intestinimonas	0.0	O
+O11	g__Intestinimonas	0.0	O
+O10	g__Intestinimonas	0.0	O
+O9	g__Intestinimonas	0.0	O
+O8	g__Intestinimonas	0.0	O
+O7	g__Intestinimonas	0.0	O
+O6	g__Intestinimonas	0.0	O
+Y9	g__Coprobacillus	0.0	Y
+Y8	g__Coprobacillus	0.0	Y
+Y1	g__Coprobacillus	0.0	Y
+Y3	g__Coprobacillus	0.000177069499779	Y
+Y2	g__Coprobacillus	0.000177069499779	Y
+Y5	g__Coprobacillus	0.0	Y
+Y4	g__Coprobacillus	0.0	Y
+Y7	g__Coprobacillus	0.0	Y
+Y6	g__Coprobacillus	0.0	Y
+O16	g__Coprobacillus	0.000708277999115	O
+O15	g__Coprobacillus	8.85347498893e-05	O
+O14	g__Coprobacillus	0.000177069499779	O
+O13	g__Coprobacillus	0.000708277999115	O
+O12	g__Coprobacillus	0.000177069499779	O
+O11	g__Coprobacillus	8.85347498893e-05	O
+O10	g__Coprobacillus	0.000354138999557	O
+O9	g__Coprobacillus	0.000885347498893	O
+O8	g__Coprobacillus	0.000265604249668	O
+O7	g__Coprobacillus	0.0016821602479	O
+O6	g__Coprobacillus	0.00132802124834	O
+Y9	g__Eubacterium	0.0	Y
+Y8	g__Eubacterium	0.0	Y
+Y1	g__Eubacterium	8.85347498893e-05	Y
+Y3	g__Eubacterium	0.00106241699867	Y
+Y2	g__Eubacterium	0.000885347498893	Y
+Y5	g__Eubacterium	0.000265604249668	Y
+Y4	g__Eubacterium	0.000619743249225	Y
+Y7	g__Eubacterium	0.0	Y
+Y6	g__Eubacterium	0.0	Y
+O16	g__Eubacterium	0.0	O
+O15	g__Eubacterium	0.0	O
+O14	g__Eubacterium	0.000177069499779	O
+O13	g__Eubacterium	0.0	O
+O12	g__Eubacterium	0.0	O
+O11	g__Eubacterium	0.0	O
+O10	g__Eubacterium	0.0	O
+O9	g__Eubacterium	0.0	O
+O8	g__Eubacterium	0.0	O
+O7	g__Eubacterium	0.0	O
+O6	g__Eubacterium	0.0	O
+Y9	g__Eisenbergiella	0.0	Y
+Y8	g__Eisenbergiella	0.0	Y
+Y1	g__Eisenbergiella	0.0	Y
+Y3	g__Eisenbergiella	0.000265604249668	Y
+Y2	g__Eisenbergiella	0.0	Y
+Y5	g__Eisenbergiella	8.85347498893e-05	Y
+Y4	g__Eisenbergiella	0.0	Y
+Y7	g__Eisenbergiella	0.0	Y
+Y6	g__Eisenbergiella	0.0	Y
+O16	g__Eisenbergiella	8.85347498893e-05	O
+O15	g__Eisenbergiella	0.000531208499336	O
+O14	g__Eisenbergiella	0.000177069499779	O
+O13	g__Eisenbergiella	0.000619743249225	O
+O12	g__Eisenbergiella	0.000177069499779	O
+O11	g__Eisenbergiella	8.85347498893e-05	O
+O10	g__Eisenbergiella	0.0	O
+O9	g__Eisenbergiella	0.000354138999557	O
+O8	g__Eisenbergiella	0.0	O
+O7	g__Eisenbergiella	0.0	O
+O6	g__Eisenbergiella	0.000265604249668	O
