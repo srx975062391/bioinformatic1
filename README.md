@@ -9,7 +9,7 @@ Rscript   pcoa_circle.R -i  data/unweighted_unifrac.txt  -g  data/group.txt  -o 
 ```
 Alpha 多样性图形
 ```
-Rscript   alpha_box.R -i data/PD_whole_tree.txt   -o  PD_whole_tree.pdf
+Rscript   alpha_box.R -i data/PD_whole_tree.txt   -o  PD_whole_tree.pdf -n PD_whole_tree
 ```
 Beta 多样性聚类热图
 ```
