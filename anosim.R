@@ -12,9 +12,9 @@ options(warn = -1) # Turn off warning
 
 # 修改下面`default=`后面的文件和参数。
 #
-# 输入文件为距离矩阵(如weighted_unifrac.txt)+分组信息(group.txt)
+# 输入文件为距离矩阵(如unweighted_unifrac.txt)+分组信息(group.txt)
 #
-# 输入文件"-i", "--input"，beta/weighted_unifrac.txt; beta多样性距离矩阵文件，有多种距离可选，常用bray_curtis、jaccard、unifrac和unifrac_binary
+# 输入文件"-i", "--input"，unweighted_unifrac.txt; beta多样性距离矩阵文件，有多种距离可选，常用bray_curtis、jaccard、unifrac和unifrac_binary
 #
 # 分组文件"-g", "--group"，默认`group.txt`，可手动修改文件位置；
 #
@@ -31,9 +31,9 @@ options(warn = -1) # Turn off warning
 library("optparse")
 if (TRUE){
   option_list = list(
-    make_option(c("-i", "--input"), type="character", default="beta/weighted_unifrac.txt",
+    make_option(c("-i", "--input"), type="character", default="unweighted_unifrac.txt",
                 help="Beta diversity distance matrix [default %default]"),
-	make_option(c("-n", "--distance"), type="character", default="weighted unifrac",
+	make_option(c("-n", "--distance"), type="character", default="unweighted unifrac",
 				help="Beta diversity distance method [default %default]"),
     make_option(c("-g", "--group"), type="character", default="group.txt",
                 help="Group file [default %default]"),
@@ -48,9 +48,9 @@ if (TRUE){
   # suppressWarnings(dir.create(opts$output))
 }
 # 设置输出文件缺省值，如果为空，则为输入+.anosim.pdf
-if(opts$output==""){opts$output=paste0(opts$input,".anosim.pdf")}
-opts$output = gsub(".txt","",opts$output)
-suppressWarnings(dir.create(dirname(opts$output), showWarnings = F))
+#if(opts$output==""){opts$output=paste0(opts$input,".anosim.pdf")}
+#opts$output = gsub(".txt","",opts$output)
+#suppressWarnings(dir.create(dirname(opts$output), showWarnings = F))
 
 #----1.3. 加载包 Load packages#----
 
